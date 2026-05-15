@@ -1,4 +1,5 @@
 Supplementary Materials
+
 Paper Title: "EEG-based Biomarker for the Identification of Mild Cognitive Impairment via Coherency Analysis and Iterative Dynamic Time Warping"
 
 * Code and Data Descriptions
